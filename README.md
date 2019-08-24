@@ -1,1 +1,2 @@
-# Matrix-Project-EE1390-
+# AI_ML
+Course work EE1390
